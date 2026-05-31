@@ -1,9 +1,8 @@
-node_modules/
-dist/
-.vite/
-
-.env
-.env.local
-
+node_modules
+dist
+dist-electron
 .DS_Store
-*.log
+npm-debug.log*
+*.local
+*.tsbuildinfo
+.local-docs/
